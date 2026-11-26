@@ -14,3 +14,14 @@ I don’t know yet in which field I would like to start, but I can’t wait to d
   MySQL
   Python
 </div>
+
+<h2></h2>
+
+<h3 align="center"><ins>Currently learning</h3>
+<div align="center">
+
+  Javascript
+  Unity
+  C#
+</div>
+<h2></h2>
